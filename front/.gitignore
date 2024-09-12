@@ -1,0 +1,9 @@
+
+/node_modules
+
+# Angular build output
+/dist/
+/build/
+
+# Angular cache
+/.angular/cache/
